@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a part of **ERP project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Angular, Flutter, Java, Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full Stack(Angular, Spring Boot) Project**
 
