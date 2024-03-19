@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omaratrak.blogspot.com/](https://omaratrak.blogspot.com/)
 
-- 💬 Ask me about **Vue, Java**
+- 💬 Ask me about **Vue, Java, Angular**
 
 - 📫 How to reach me **omar.atrak7@gmail.com**
 
