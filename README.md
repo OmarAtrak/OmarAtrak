@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Atrak</h1>
-<h3 align="center">Fontend Developer</h3>
+<h3 align="center">Font End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaratrak&label=Profile%20views&color=0e75b6&style=flat" alt="omaratrak" /> </p>
 
