@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vue, Java, Angular**
 
-- 📫 How to reach me **omar.atrak7@gmail.com**
+- 📫 How to reach me **omar.atrak.log@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1t5wvDJMdI9XciWA8g8gkbFgSOAdkGXTf/view?usp=sharing](https://drive.google.com/file/d/1t5wvDJMdI9XciWA8g8gkbFgSOAdkGXTf/view?usp=sharing)
 
