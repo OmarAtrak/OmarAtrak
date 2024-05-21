@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack(Angular, Spring Boot) Project**
 
-- 👨‍💻 All of my projects are available at ((https://omaratrak.github.io/my-website/))
+- 👨‍💻 All of my projects are available at https://omaratrak.github.io/my-website/
 
 - 💬 Ask me about **Vue, Java, Angular**
 
