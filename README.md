@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Atrak</h1>
-<h3 align="center">Font End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on a part of **ERP project**
 
